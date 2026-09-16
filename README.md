@@ -1,3 +1,7 @@
+This is a forked repo for my SWE-380 assignment. I will be tailoring it as required.
+
+
+
 # vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
