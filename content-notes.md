@@ -6,12 +6,12 @@ Intelligent aspiring politician, who loves to help other people. Great people pe
 ---
 
 **Education:**   
-Mott Middle College, Flint, Michigan  
+High School, USA
 High School Diploma  
 Graduated \- June 2022  
 3.6 GPA
 
-Mott Community College, Flint, Michigan  
+Community College, USA 
 Associates in General Studies  
 Graduated \- June 2022  
 3.63 GPA  
